@@ -2,6 +2,8 @@
 
 >Prerequest: KEIL5 and STM32 related packages are installed
 
+Note: Encoding method "GB 2312" can eliminate garbled characters
+
 Here is project to use STM32 to acquire capacity value from FDC2214 sensor and display the value on the OLED 0.96 inch screen 
 
 
